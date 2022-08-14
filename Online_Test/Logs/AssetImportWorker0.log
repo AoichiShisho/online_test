@@ -1,0 +1,488 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.7f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/nakamuraao/my_unity_projects/originals/udemy/Online_Test
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59600
+Successfully changed project path to: /Users/nakamuraao/my_unity_projects/originals/udemy/Online_Test
+/Users/nakamuraao/my_unity_projects/originals/udemy/Online_Test
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.7f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/nakamuraao/my_unity_projects/originals/udemy/Online_Test/Assets
+GfxDevice: creating device client; threaded=0
+2022-08-14 16:34:11.582 Unity[99708:2066608] (null) preferred device: Apple M1 (high power)
+2022-08-14 16:34:11.582 Unity[99708:2066608] Metal devices available: 1
+2022-08-14 16:34:11.582 Unity[99708:2066608] 0: Apple M1 (high power)
+2022-08-14 16:34:11.585 Unity[99708:2066608] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.7f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002015 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 22.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.179 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.492 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.4 MB.
+System memory in use after: 108.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 1.251291 ms (FindLiveObjects: 0.091917 ms CreateObjectMapping: 0.023750 ms MarkObjects: 1.063458 ms  DeleteObjects: 0.070250 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/lowpoly-guns
+  artifactKey: Guid(e8661123e0a0b435fa390e7135bec214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns using Guid(e8661123e0a0b435fa390e7135bec214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ac22f0329eee416d13c920291880ad') in 0.004619 seconds
+  Import took 0.006073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.088190 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Materials
+  artifactKey: Guid(12aa7e9ad0a57734685abb65c472681e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Materials using Guid(12aa7e9ad0a57734685abb65c472681e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fbb5f4722604e3856c48e99a21a3c2') in 0.001384 seconds
+  Import took 0.003929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.515820 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Meshes
+  artifactKey: Guid(3675f871a9ef8ed4fac2cb46ffe88c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Meshes using Guid(3675f871a9ef8ed4fac2cb46ffe88c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f434e8abe4e284e1aef3941100750e') in 0.001773 seconds
+  Import took 0.004243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.086383 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs
+  artifactKey: Guid(69e11ae656649754a817550bd55a2bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs using Guid(69e11ae656649754a817550bd55a2bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7816db50b61b8450a2999ec15790a11b') in 0.001217 seconds
+  Import took 0.003713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.675746 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89434ac489deb914593f829e0a47671') in 0.001125 seconds
+  Import took 0.003671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.326832 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE
+  artifactKey: Guid(1d7fa26dde36d4a8f9546dcd0ad7a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE using Guid(1d7fa26dde36d4a8f9546dcd0ad7a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71c1a4771b9201d6c18b77555771080') in 0.001530 seconds
+  Import took 0.003705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000702 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE
+  artifactKey: Guid(1d7fa26dde36d4a8f9546dcd0ad7a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE using Guid(1d7fa26dde36d4a8f9546dcd0ad7a1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71c1a4771b9201d6c18b77555771080') in 0.000791 seconds
+  Import took 0.002633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.191080 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/DemoScene and Manual
+  artifactKey: Guid(805bd94b1d576034ba1a6e2b6b522eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/DemoScene and Manual using Guid(805bd94b1d576034ba1a6e2b6b522eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45ac46e0232f93af336ad3ad0ecde913') in 0.001618 seconds
+  Import took 0.004033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.325879 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color
+  artifactKey: Guid(0c373bc45d98ec746a9496844c34762f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color using Guid(0c373bc45d98ec746a9496844c34762f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd09fe23cbd43ceca235983b5f942732') in 0.001077 seconds
+  Import took 0.003332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.217311 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow
+  artifactKey: Guid(8d56a5d35149db04bbe26763341879fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow using Guid(8d56a5d35149db04bbe26763341879fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34bfcd3aa695301a95b371a75085fea') in 0.001206 seconds
+  Import took 0.003694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow
+  artifactKey: Guid(8d56a5d35149db04bbe26763341879fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow using Guid(8d56a5d35149db04bbe26763341879fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34bfcd3aa695301a95b371a75085fea') in 0.000822 seconds
+  Import took 0.002664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.417229 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Bullet and other prop
+  artifactKey: Guid(6deb9aa3f163fa949abfe9cbad8b99c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Bullet and other prop using Guid(6deb9aa3f163fa949abfe9cbad8b99c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15460966dd1a9e55b610b2a1da44dd4') in 0.001250 seconds
+  Import took 0.003708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Bullet and other prop
+  artifactKey: Guid(6deb9aa3f163fa949abfe9cbad8b99c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Bullet and other prop using Guid(6deb9aa3f163fa949abfe9cbad8b99c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15460966dd1a9e55b610b2a1da44dd4') in 0.000895 seconds
+  Import took 0.002814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.505983 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Pistol
+  artifactKey: Guid(425a86aa576af884b8ce4def8c31dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Pistol using Guid(425a86aa576af884b8ce4def8c31dd37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8545b54d7eb5f984e8d3ec443e579a0b') in 0.001824 seconds
+  Import took 0.004345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.580009 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Pistol/Pistol_00.prefab
+  artifactKey: Guid(1f01a7aea7ce1e9419915423dfb24a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Pistol/Pistol_00.prefab using Guid(1f01a7aea7ce1e9419915423dfb24a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e3c4b29627bd339a9161f71e2bdca7') in 0.343677 seconds
+  Import took 0.345616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.368892 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Pistol/Pistol_00_mag.prefab
+  artifactKey: Guid(698f69cba900d27498554ea51f82b8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Pistol/Pistol_00_mag.prefab using Guid(698f69cba900d27498554ea51f82b8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4541810e89f4157e4d2026015fa3a2a1') in 0.014745 seconds
+  Import took 0.016765 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.431 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.1 MB.
+System memory in use after: 130.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 1.142833 ms (FindLiveObjects: 0.087250 ms CreateObjectMapping: 0.025167 ms MarkObjects: 0.983042 ms  DeleteObjects: 0.046417 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000714 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.452 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.3 MB.
+System memory in use after: 130.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.096125 ms (FindLiveObjects: 0.093625 ms CreateObjectMapping: 0.023333 ms MarkObjects: 0.938375 ms  DeleteObjects: 0.039709 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 217.220950 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Rifle
+  artifactKey: Guid(99b416169489b3c4aba7d7651032646a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Rifle using Guid(99b416169489b3c4aba7d7651032646a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a748ba64395ec62d88610018cda4070c') in 0.006985 seconds
+  Import took 0.009484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.575108 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Rifle/Rifle_00.prefab
+  artifactKey: Guid(cc4156adf6614cb4693b57fd602cf0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Rifle/Rifle_00.prefab using Guid(cc4156adf6614cb4693b57fd602cf0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'affe2f0569e2a128edb54a96000f9ae9') in 0.154623 seconds
+  Import took 0.156375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3151.183969 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Rifle/Rifle_00_07_08_mag.prefab
+  artifactKey: Guid(9176ba4a45d5b604b80b8c5e37e98a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Black and common color/Rifle/Rifle_00_07_08_mag.prefab using Guid(9176ba4a45d5b604b80b8c5e37e98a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64eb6c00e3214bace51b8884ea579d49') in 0.041473 seconds
+  Import took 0.049424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.906739 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol
+  artifactKey: Guid(4e8696485b3a474438567a3f959bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol using Guid(4e8696485b3a474438567a3f959bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403aebfaad4be23c87ecb0c7493a545e') in 0.001124 seconds
+  Import took 0.003364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.961471 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol/Pistol_00.prefab
+  artifactKey: Guid(f9508935197c3d74fba04d86d8267f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol/Pistol_00.prefab using Guid(f9508935197c3d74fba04d86d8267f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8787a61def7f4653990a87dcc10ce0f') in 0.015754 seconds
+  Import took 0.018349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.784883 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol/Pistol_00_mag.prefab
+  artifactKey: Guid(133c3483ac365aa4ebcc847a736d56ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol/Pistol_00_mag.prefab using Guid(133c3483ac365aa4ebcc847a736d56ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c31a91d1344f106eadfe25b615308e') in 0.010033 seconds
+  Import took 0.012600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002166 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol/Pistol_00_mag.prefab
+  artifactKey: Guid(133c3483ac365aa4ebcc847a736d56ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Snow/Pistol/Pistol_00_mag.prefab using Guid(133c3483ac365aa4ebcc847a736d56ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c31a91d1344f106eadfe25b615308e') in 0.007841 seconds
+  Import took 0.009914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.524515 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan
+  artifactKey: Guid(cbded7ad18ec39540b66f358b3beeb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan using Guid(cbded7ad18ec39540b66f358b3beeb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27264fe8cf9493b7d5a646e772c8bcf') in 0.001573 seconds
+  Import took 0.004195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.490961 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan/Pistol
+  artifactKey: Guid(6f440d35d9cc42e4e8b1ebfaa2700dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan/Pistol using Guid(6f440d35d9cc42e4e8b1ebfaa2700dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b340d9535a0d871d3de73b6632d61b') in 0.001520 seconds
+  Import took 0.004432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.691233 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan/Pistol/Pistol_00.prefab
+  artifactKey: Guid(21d24e7ba9edf954f8a02c065e8d4d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan/Pistol/Pistol_00.prefab using Guid(21d24e7ba9edf954f8a02c065e8d4d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd424041d70f4c148011b46b4673b0a25') in 0.013854 seconds
+  Import took 0.016453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.936783 seconds.
+  path: Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan/Pistol/Pistol_00_mag.prefab
+  artifactKey: Guid(b3c8d29e2e0ea0948a6ebf8978e7c413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lowpoly-guns/LOW-POLY GUNS PACK_SAMPLE/Prefabs/Tan/Pistol/Pistol_00_mag.prefab using Guid(b3c8d29e2e0ea0948a6ebf8978e7c413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1757277bfdd2168b3f15e07b2f6be4d9') in 0.010778 seconds
+  Import took 0.013473 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000641 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.491 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.9 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.101375 ms (FindLiveObjects: 0.108292 ms CreateObjectMapping: 0.022667 ms MarkObjects: 0.919333 ms  DeleteObjects: 0.049875 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.444 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 131.1 MB.
+System memory in use after: 131.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 1.032375 ms (FindLiveObjects: 0.078708 ms CreateObjectMapping: 0.023625 ms MarkObjects: 0.891583 ms  DeleteObjects: 0.037250 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1735.384903 seconds.
+  path: Assets/Scripts/Gun.cs
+  artifactKey: Guid(afe7be6c882c148d9be0f8abaf7c44cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gun.cs using Guid(afe7be6c882c148d9be0f8abaf7c44cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61287b93183753dc3f1dee39be428f3') in 0.168485 seconds
+  Import took 0.171572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.202778 seconds.
+  path: Assets/Scripts/Gun.cs
+  artifactKey: Guid(afe7be6c882c148d9be0f8abaf7c44cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gun.cs using Guid(afe7be6c882c148d9be0f8abaf7c44cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61287b93183753dc3f1dee39be428f3') in 0.001341 seconds
+  Import took 0.003201 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000240 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.532 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.5 MB.
+System memory in use after: 135.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1581.
+Total: 1.216459 ms (FindLiveObjects: 0.151458 ms CreateObjectMapping: 0.025417 ms MarkObjects: 0.977375 ms  DeleteObjects: 0.060875 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.493 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.7 MB.
+System memory in use after: 135.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 1.279291 ms (FindLiveObjects: 0.142334 ms CreateObjectMapping: 0.025208 ms MarkObjects: 1.061417 ms  DeleteObjects: 0.049166 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.782497 seconds.
+  path: Assets/Scripts/Gun.cs
+  artifactKey: Guid(afe7be6c882c148d9be0f8abaf7c44cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Gun.cs using Guid(afe7be6c882c148d9be0f8abaf7c44cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5c2bc7a15050b0ca6d7a59d3183b3f') in 0.004637 seconds
+  Import took 0.006017 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000331 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.514 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 135.9 MB.
+System memory in use after: 136.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 1.092125 ms (FindLiveObjects: 0.091125 ms CreateObjectMapping: 0.024125 ms MarkObjects: 0.927250 ms  DeleteObjects: 0.048584 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.476488 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(310563ce7fe994c3f9629ee28314ed3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(310563ce7fe994c3f9629ee28314ed3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1745991e7dc386eb7ad974e494b0b86') in 0.009857 seconds
+  Import took 0.014681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005680 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(310563ce7fe994c3f9629ee28314ed3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(310563ce7fe994c3f9629ee28314ed3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1745991e7dc386eb7ad974e494b0b86') in 0.000873 seconds
+  Import took 0.002216 seconds .
+
